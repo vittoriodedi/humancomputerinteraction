@@ -1,6 +1,6 @@
 # humancomputerinteraction
 
-This repository contains my final project and related materials from the *Human Computer Interaction* course.
+This repository contains my “Human Computer Interaction” course final project and related materials
 
 ## Overview
 
